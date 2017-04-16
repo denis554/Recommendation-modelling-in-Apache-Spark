@@ -25,7 +25,8 @@ Collaborative filtering algorithms will be used.
 Idea: If a person A likes item 1, 2, 3 and B like 2,3,4 then they have similar interests and A should like item 4 and B should like item 1.
 
 This algorithm is entirely based on the past behavior and not on the context. This makes it one of the most commonly used algorithm as it is not dependent on any additional information. For instance: product recommendations by e-commerce player like Amazon and merchant recommendations by banks like American Express. https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/
-Further, there are several types of collaborative filtering algorithms :
+
+Further, the two types of collaborative filtering algorithms considered are :
 
 #### User-User Collaborative filtering  OR  Item-Item Collaborative filtering. 
 
